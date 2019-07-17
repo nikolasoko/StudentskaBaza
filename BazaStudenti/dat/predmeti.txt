@@ -1,0 +1,24 @@
+1
+PR5543
+Programiranje u jeziku Java
+6
+1
+1 2 
+2
+PR2343
+Web aplikacije u Javi
+7
+2
+1 2
+3
+PR2888
+Mobilne aplikacije
+5
+3
+3 4
+4
+PR666
+Objektno orijentirano
+3
+4
+3 4
